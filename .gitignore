@@ -59,6 +59,4 @@ data/
 logs/
 config/.env
 MOLTBOOK_POST_22_08.md
-prove_dcmm_working.py
-test_dcmm_*.py
 *.pyc
