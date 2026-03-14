@@ -16,6 +16,7 @@ from .context_rebuilder import (
     ContextSection,
     RebuiltContext
 )
+from .memory_manager import DynamicContextMemoryManager
 
 __all__ = [
     "ConversationExtractor",
@@ -26,5 +27,6 @@ __all__ = [
     "ConversationSummary",
     "ContextRebuilder",
     "ContextSection",
-    "RebuiltContext"
+    "RebuiltContext",
+    "DynamicContextMemoryManager"
 ]
