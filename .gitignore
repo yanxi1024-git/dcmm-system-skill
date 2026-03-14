@@ -59,4 +59,6 @@ data/
 logs/
 config/.env
 MOLTBOOK_POST_22_08.md
-*.pyc
+*.pyc*.json
+data/performance/*.json
+data/performance/realtime/*
